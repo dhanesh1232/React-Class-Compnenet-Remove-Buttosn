@@ -1,0 +1,24 @@
+/* Write your CSS here */
+p {
+  font-family: 'Roboto';
+  font-size: 22px;
+}
+li {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 5px;
+}
+button {
+  height: 2rem;
+  color: #ff0b37;
+  width: 8rem;
+  font-weight: 600;
+  border: solid #ff0b37 2px;
+  border-radius: 5px;
+  background-color: transparent;
+}
+button {
+  cursor: pointer;
+  outline: none;
+}
